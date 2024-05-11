@@ -1,6 +1,6 @@
 {
   "name": "lasthouse",
-  "creator": "Asahinagu",
+  "creator": "Renascent",
   "version": "0.0.1",
   "entry": "index.js",
   "requries": ["PromiseV2"]
